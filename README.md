@@ -19,7 +19,7 @@ The dashboard supports data-driven decisions in:
 - Opportunities
 
   ## 🔍 Key Insights
-- High turnover in sales & support departments
+- High turnover in different age groups & different regions
 - Referrals yield highest-performing hires
 - Most exits occur within the first year
 - Technical roles have long time-to-fill
