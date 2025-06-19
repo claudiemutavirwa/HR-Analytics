@@ -9,3 +9,20 @@
 # Project Description
 This HR dashboard provides a comprehensive analysis of our workforce trends, including new hires, active employees, separations, and hiring quality. The purpose is to support data-driven decision-making in talent acquisition, retention, and workforce planning by identifying patterns, risks, and opportunities across the employee lifecycle.
 
+
+## 🎯 Purpose
+The dashboard supports data-driven decisions in:
+- Talent acquisition
+- Retention
+- Workforce planning
+- Risks
+- Opportunities
+
+  ## 🔍 Key Insights
+- High turnover in sales & support departments
+- Referrals yield highest-performing hires
+- Most exits occur within the first year
+- Technical roles have long time-to-fill
+
+  Author: [Cladious Mutavirwa](https://github.com/claudiemutavirwa)
+
